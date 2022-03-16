@@ -1,6 +1,6 @@
 # Tribute-Page
 ###
-This is a tribute page build as part of the freeCodeCamp Responsive Web Design Project curriculum.
+This is a tribute page build as part of the freeCodeCamp Responsive Web Design curriculum.
 
 # 👀 Demo & Screenshot
 ###
