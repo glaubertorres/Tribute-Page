@@ -4,7 +4,7 @@ This is a tribute page build as part of the freeCodeCamp Responsive Web Design c
 
 # 👀 Demo & Screenshot
 ###
-Check the demo on https://codepen.io/gttorres/pen/BaJNPMZ
+Check the demo on https://codepen.io/gttorres/full/BaJNPMZ
 <p align="center"><img src="https://i.imgur.com/49MDSRo.jpg">
 <p align="center"><img src="https://i.imgur.com/mzIp8ry.jpg">
 
